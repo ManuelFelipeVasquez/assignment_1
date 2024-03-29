@@ -1,0 +1,7 @@
+2076425
+2085846
+
+# Schede Madri
+
+- MSI B450-A PRO MAX
+- ASROCK Z690 PRO RS
